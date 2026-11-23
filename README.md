@@ -3,14 +3,6 @@
 Trabalho Final — Tópicos Especiais em Análise e Desenvolvimento de Sistemas (ADS)
 Tema 4: **Playwright** (biblioteca da Microsoft para automação de navegadores)
 
-## Integrantes
-
-| Nome completo |
-|---|
-| João Gabriel [SOBRENOME] |
-| [NOME COMPLETO] Sanquetta |
-| [NOME COMPLETO] Gustavo |
-
 ## O que o projeto faz
 
 O robô abre um navegador real, percorre as páginas do catálogo do site
